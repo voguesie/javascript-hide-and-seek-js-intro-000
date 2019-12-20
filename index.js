@@ -15,3 +15,4 @@ function increaseRankBy(n) {
     rankedLis[i].innerHTML = (parseInt(rankedLis[i].innerHTML, 10) + n).toString()
   }
 }
+// Nothing
